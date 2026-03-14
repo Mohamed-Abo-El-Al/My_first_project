@@ -1,0 +1,31 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+body{
+    font-family: "work sans,sans-serif";
+}
+/*  */
+.perant{
+    width: 400px;
+    
+
+
+    background-color: rgb(22, 149, 106);
+}
+.container{
+width: 60px;
+margin: 39px;
+
+
+}
+.test{
+    
+    color: rgb(183, 18, 18);
+    background-color: rebeccapurple;
+   
+}
+/* .ali{
+    background-color: brown;
+} */
